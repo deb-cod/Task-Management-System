@@ -1,0 +1,32 @@
+{
+    "todos" : [
+        {
+          "id":1,
+          "title": "Task 1 is working",
+          "description": "Working on a new project",
+          "due_date": "20/12/2024",
+          "status": false
+        },
+        {
+          "id":2,
+          "title": "Task 2 is working",
+          "description": "Working on a new project",
+          "due_date": "20/12/2024",
+          "status": false
+        },
+        {
+          "id":3,
+          "title": "Task 3 is working",
+          "description": "Working on a new project",
+          "due_date": "20/12/2024",
+          "status": false
+        },
+        {
+          "id":4,
+          "title": "Task 4 is working",
+          "description": "Working on a new project",
+          "due_date": "20/12/2024",
+          "status": true
+        }
+      ]
+}
